@@ -4,4 +4,4 @@ uso o github pra guardar tudo que acho interessante na minha jornada de aprender
 
 valeu eh nois, Deus abençoe
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljmanzano&layout=compact&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljmanzano&layout=compact&langs_count=8)
